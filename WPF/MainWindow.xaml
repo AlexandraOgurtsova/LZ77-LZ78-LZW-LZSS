@@ -1,0 +1,27 @@
+﻿<Window x:Class="WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Column="1" x:Name="archiveTextTB"/>
+        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+            <Button Grid.Column="1" FontSize="40" x:Name="lz78Btn" Click="Lz78Btn_Click">LZ78</Button>
+            <Button Grid.Column="1" FontSize="40" x:Name="unarchiveBtn" Click="UnarchiveBtn_Click">LZ77</Button>
+            <Button Grid.Column="1" FontSize="40" x:Name="lzwBtn" Click="LzwBtn_Click">LZW</Button>
+            <Button Content="LZSS" Grid.Column="1"  FontSize="40" Click="Button_Click"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>

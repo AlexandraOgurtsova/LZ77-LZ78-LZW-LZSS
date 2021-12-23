@@ -1,0 +1,61 @@
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\bin\Debug\WPF.exe
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\bin\Debug\WPF.pdb
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\MainWindow.baml
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\WPF.g.resources
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\WPF.pdb
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\LZW_Window.g.cs
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\WPF\WPF\obj\Debug\LZW_Window.baml
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\LZ78_Window.g.cs
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\LZW_Window.g.cs
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\WPF.pdb
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\bin\Debug\WPF.exe
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\bin\Debug\WPF.pdb
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\LZW_Window.baml
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\MainWindow.baml
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\LZ78_Window.baml
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\WPF.g.resources
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\LZ77_Window.g.cs
+C:\Users\pawii\Desktop\Learning\6 semestr\Защита курсач\LZ77-LZ78-LZW\WPF\WPF\obj\Debug\LZ77_Window.baml
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\bin\Debug\WPF.exe.config
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\bin\Debug\WPF.exe
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\bin\Debug\WPF.pdb
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\LZ77_Window.g.cs
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\LZ78_Window.g.cs
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\LZW_Window.g.cs
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\MainWindow.g.cs
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\App.g.cs
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\WPF_MarkupCompile.lref
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\LZ77_Window.baml
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\LZ78_Window.baml
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\LZW_Window.baml
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\MainWindow.baml
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\WPF.g.resources
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\WPF.exe
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\WPF.pdb
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\LZSS_Window.g.cs
+H:\3\6\кп ози\прога\LZ77-LZ78-LZW-master\WPF\WPF\obj\Debug\LZSS_Window.baml

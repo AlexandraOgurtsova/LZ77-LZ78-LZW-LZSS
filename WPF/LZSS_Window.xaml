@@ -1,0 +1,38 @@
+﻿<Window x:Class="WPF.LZSS_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="LZSS_Window" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.4*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.18*"/>
+            <ColumnDefinition Width="0.45*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <TextBox Grid.Row="0" Grid.Column="0" x:Name="Message" TextWrapping="Wrap" Text="Enter Message" VerticalAlignment="Top" Height="120" />
+        <TextBox Grid.Row="0" Grid.Column="2" x:Name="DMessage"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="120" Margin="0.4,0,-0.4,0"/>
+        <TextBox Grid.Row="1" Grid.Column="0" x:Name="CompressionMessage" HorizontalAlignment="Left" TextWrapping="Wrap"  VerticalAlignment="Top" Height="300" Width="351"/>
+        <TextBox Grid.Row="1" Grid.Column="2" x:Name="DecompessionMessage"  HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Height="300" Width="316" Margin="0.4,0,-0.4,0"/>
+
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Button x:Name="StartCompress" Content="Start compress" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="126" Click="StartCompress_Click" Height="25"/>
+            <Button x:Name="CompressAll" Content="Compress All" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="126" Click="CompressAll_Click" Height="25"/>
+            <Button x:Name="StartDecompress" Content="Start decompress" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="126" Height="25" Click="StartDecompress_Click"/>
+            <Button x:Name="Decompress" Content="Decompress All" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="126" Height="25" Click="Decompress_Click"/>
+            <TextBlock x:Name="t1">Compression rate:</TextBlock>
+            <TextBlock x:Name="timeC"></TextBlock>
+            <TextBlock x:Name="t2">Deecompression rate:</TextBlock>
+            <TextBlock x:Name="timeD"></TextBlock>
+        </StackPanel>
+
+    </Grid>
+</Window>

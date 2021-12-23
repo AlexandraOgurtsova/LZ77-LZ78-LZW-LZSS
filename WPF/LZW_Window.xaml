@@ -1,0 +1,63 @@
+﻿<Window x:Class="WPF.LZW_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="LZW_Window" Height="450" Width="1010"
+        MinWidth="1010">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.4*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.45*"/>
+            <ColumnDefinition Width="0.18*"/>
+            <ColumnDefinition Width="0.45*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox x:Name="sourceTB" TextWrapping="Wrap">Enter message</TextBox>
+
+        <TextBlock x:Name="outputTB" Grid.Row="0" Grid.Column="2" TextWrapping="Wrap"></TextBlock>
+        
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Button x:Name="startCmprBtn" FontSize="15" Click="StartCmprBtn_Click">Start compress</Button>
+            <Button x:Name="iterationCmprBtn" FontSize="15" Click="IterationCmprBtn_Click" IsEnabled="false">Compression iteration</Button>
+            <Button x:Name="allCmprBtn" FontSize="15" IsEnabled="false" Click="AllCmprBtn_Click">Compress All</Button>
+            <Button x:Name="startDecmprBtn" FontSize="15" IsEnabled="false" Click="StartDecmprBtn_Click">Start decompress</Button>
+            <Button x:Name="iterationDecmprBtn" FontSize="15" IsEnabled="false" Click="IterationDecmprBtn_Click">Decompression iteration</Button>
+            <Button x:Name="allDecmprBtn" FontSize="15" IsEnabled="false" Click="AllDecmprBtn_Click">Decompress All</Button>
+            <TextBlock x:Name="t1">Compression rate:</TextBlock>
+            <TextBlock x:Name="timeC"></TextBlock>
+            <TextBlock x:Name="t2">Deecompression rate:</TextBlock>
+            <TextBlock x:Name="timeD"></TextBlock>
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="1" Grid.Column="0">
+            <StackPanel x:Name="compressContainer" Grid.Row="1" Grid.Column="0">
+            <WrapPanel Orientation="Horizontal">
+                    <TextBox Width="80" TextAlignment="Center">Current sting</TextBox>
+                    <TextBox Width="90" TextAlignment="Center">Current symbol</TextBox>
+                    <TextBox Width="70" TextAlignment="Center">Next symbol</TextBox>
+                    <TextBox Width="35" TextAlignment="Center">Code</TextBox>
+                    <TextBox Width="50" TextAlignment="Center">Bits</TextBox>
+                    <TextBox Width="70" TextAlignment="Center">Ditionary</TextBox>
+            </WrapPanel>
+            </StackPanel>
+        </ScrollViewer>
+
+        <ScrollViewer Grid.Row="1" Grid.Column="2">
+            <StackPanel x:Name="decompressContainer" Grid.Row="1" Grid.Column="2">
+            <WrapPanel Orientation="Horizontal">
+                    <TextBox Width="90" TextAlignment="Center">Bits</TextBox>
+                    <TextBox Width="60" TextAlignment="Center">Code</TextBox>
+                    <TextBox Width="70" TextAlignment="Center">On exit</TextBox>
+                    <TextBox Width="80" TextAlignment="Center">Full note</TextBox>
+                    <TextBox Width="80" TextAlignment="Center">Partial note</TextBox>
+            </WrapPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>
